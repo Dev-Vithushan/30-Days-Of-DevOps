@@ -4,8 +4,6 @@ DevOps, short for Development and Operations, is a set of practices that emphasi
 
 Continuous Integration and Continuous Deployment/Delivery (CI/CD) are essential practices within the DevOps methodology. They focus on automating and accelerating the processes of building, testing, and deploying software.
 
-#### Click Below to watch the video Tutorial
-[![Watch the video](https://img.youtube.com/vi/Tq1vBqliJ_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tq1vBqliJ_M)
 
 
 ## Continuous Integration (CI)
@@ -26,7 +24,7 @@ When Commit is done by all, then the code for all the features is combined or in
 3. `Automated Tests`: The CI server runs a suite of automated tests to verify the integrity of the codebase. This includes unit tests, integration tests, and other forms of automated testing.
 4. `Reporting`: The CI server provides feedback to the development team, indicating whether the build and tests were successful or if any issues were found.
 
-# Main Companies use this Env 
+## Main Companies use this Env 
 1. `Dev env` - Here is the all the process of CI happens
 2. `QA Env` - Testing team check the code using this env
 3. `PPD` - Pre release of prod env
