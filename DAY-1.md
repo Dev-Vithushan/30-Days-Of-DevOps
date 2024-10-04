@@ -26,6 +26,13 @@ When Commit is done by all, then the code for all the features is combined or in
 3. `Automated Tests`: The CI server runs a suite of automated tests to verify the integrity of the codebase. This includes unit tests, integration tests, and other forms of automated testing.
 4. `Reporting`: The CI server provides feedback to the development team, indicating whether the build and tests were successful or if any issues were found.
 
+# Main Companies use this Env 
+1. `Dev env` - Here is the all the process of CI happens
+2. `QA Env` - Testing team check the code using this env
+3. `PPD` - Pre release of prod env
+4. `Prod` - Live server
+5. `DR` -  Diasester Recovery, When any problem occurs in the Prod then we can use the DR evn 
+
 ## Continuous Deployment (CD) / Continuous Delivery (CD)
 
 CD is an extension of CI that focuses on automating the deployment and release of software. It enables organizations to release software more frequently, reliably, and with minimal manual intervention. CD encompasses the following stages:
